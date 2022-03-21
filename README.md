@@ -1,5 +1,5 @@
 # CRUD-operation-using-mongoDB-node
-This is a simple server application using node.js. Here I have created services for popular Angular 2 [Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/) tutorial.
+This is a simple server application using node.js.
 In this example you will see REST services to perform basic CRUD operations. I have used Mongodb as database.
 
 ## Connect your node script with MongoDB
